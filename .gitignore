@@ -1,0 +1,9 @@
+.vscode/
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+/kereta_api_db.sql
+/uploads/*
+!/uploads/.gitkeep
